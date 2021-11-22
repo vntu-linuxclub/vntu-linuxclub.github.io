@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Домашні завдання on VNTU Linuxoids GNU/Linux клуб</title>
+    <link>https://vntu-linuxclub.github.io/homework/</link>
+    <description>Recent content in Домашні завдання on VNTU Linuxoids GNU/Linux клуб</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>uk-ua</language><atom:link href="https://vntu-linuxclub.github.io/homework/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1 Налаштування середовища: віртуальна машина</title>
+      <link>https://vntu-linuxclub.github.io/homework/assignment-1-virtualbox/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vntu-linuxclub.github.io/homework/assignment-1-virtualbox/</guid>
+      <description>Debian та друзі - Virtualbox чи virt-manager:
+ `apt install virt-manager`
+ Зображення для virt-manager:
+https://cloud.debian.org/images/cloud/bullseye/20211011-792/debian-11-nocloud-amd64-20211011-792.qcow2
+https://wiki.debian.org/VirtualBox
+Windows - Virtualbox:
+Відео установки з 0 debian (зверніть увагу, що вже є новіші версії, а саме 10 та 11 debian, відео трохи стареньке, але актуальне) на Virtualbox (windows): https://www.youtube.com/watch?v=46ONt1dk7wI
+Ви, проте, можете скачати з googledrive debian-11-nocloud-amd64-20211011-792.vdi.zip розпакувати та експортувати і в вас буде робочий Debian 11 (термінальний інтерфейс).
+Користувач root, без пароля.</description>
+    </item>
+    
+    <item>
+      <title>2 Тримай дані під контролем: резервні копії</title>
+      <link>https://vntu-linuxclub.github.io/homework/assignment-2-backups/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vntu-linuxclub.github.io/homework/assignment-2-backups/</guid>
+      <description>Як здійснюється резервне копіювання для віртуальної машини Virtualbox snapshots Ознайомтесь з ними, без них буде складно.
+https://www.youtube.com/watch?v=Qte4X-rdr2Q
+https://www.techrepublic.com/article/how-to-use-snapshots-in-virtualbox/
+Архіватори та синхронізатори Налаштуйте резервне копіювання найціннішого (наприклад папка university) або ж всієї системи.
+Для цього:
+ Почитайте про те як робити бекапи певним інструментом тут чи тут (або в інших джерелах): Позначте себе в табличці. Зробіть бекап Зробіть ще одну копію (звичайну копію не інструментом для бекапу) й поставте її в інше місце (флешка, пам&amp;rsquo;ять телефона, картка пам&amp;rsquo;яті) Видальте те, що бекапили Відновіть дані з бекапу Коротко задокументуйте найголовніші кроки у текстовому файлі (а також ресурси які ви використали)  Якщо ви обрали метод бекапу з допомогою GUI (графічного додатку), то повинні спробувати хоча б один CLI (термінальний) метод.</description>
+    </item>
+    
+  </channel>
+</rss>
