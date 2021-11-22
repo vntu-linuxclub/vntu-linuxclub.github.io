@@ -38,12 +38,13 @@ https://www.techrepublic.com/article/how-to-use-snapshots-in-virtualbox/
     </item>
     
     <item>
-      <title>Перший допис блогу</title>
-      <link>https://vntu-linuxclub.github.io/posts/initial-blogpost/</link>
+      <title>Корисні скорочення клавіш Bash</title>
+      <link>https://vntu-linuxclub.github.io/posts/bash-shortcuts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vntu-linuxclub.github.io/posts/initial-blogpost/</guid>
-      <description>Life is wonderful even when you think it&amp;rsquo;s not.</description>
+      <guid>https://vntu-linuxclub.github.io/posts/bash-shortcuts/</guid>
+      <description>Figure 1: Bash-нагадувалка
+  Переміщення    command description     ctrl + a Goto BEGINNING of command line   ctrl + e Goto END of command line   ctrl + b move back one character   ctrl + f move forward one character   alt + f move cursor FORWARD one word   alt + b move cursor BACK one word   ctrl + xx Toggle between the start of line and current cursor position   ctrl + ] + x Where x is any character, moves the cursor forward to the next occurance of x   alt + ctrl + ] + x Where x is any character, moves the cursor backwards to the previous occurance of x    Редагування та інші    command description     ctrl + d Delete the character under the cursor   ctrl + h Delete the previous character before cursor   ctrl + u Clear all / cut BEFORE cursor   ctrl + k Clear all / cut AFTER cursor   ctrl + w delete the word BEFORE the cursor   alt + d delete the word FROM the cursor   ctrl + y paste (if you used a previous command to delete)   ctrl + i command completion like Tab   ctrl + l Clear the screen (same as clear command)   ctrl + c kill whatever is running   ctrl + d Exit shell (same as exit command when cursor line is empty)   ctrl + z Place current process in background   ctrl + _ Undo   ctrl + x ctrl + u Undo the last changes.</description>
     </item>
     
   </channel>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Блог on VNTU Linuxoids GNU/Linux клуб</title>
-    <link>https://vntu-linuxclub.github.io/posts/</link>
-    <description>Recent content in Блог on VNTU Linuxoids GNU/Linux клуб</description>
+    <title>продуктивність on VNTU Linuxoids GNU/Linux клуб</title>
+    <link>https://vntu-linuxclub.github.io/tags/%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D1%96%D1%81%D1%82%D1%8C/</link>
+    <description>Recent content in продуктивність on VNTU Linuxoids GNU/Linux клуб</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>uk-ua</language><atom:link href="https://vntu-linuxclub.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>uk-ua</language><atom:link href="https://vntu-linuxclub.github.io/tags/%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D1%96%D1%81%D1%82%D1%8C/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Корисні скорочення клавіш Bash</title>
       <link>https://vntu-linuxclub.github.io/posts/bash-shortcuts/</link>
